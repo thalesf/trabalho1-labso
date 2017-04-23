@@ -1,0 +1,7 @@
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+Thales 21-01-1995
+trab1-2017.txt
