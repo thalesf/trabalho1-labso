@@ -30,13 +30,11 @@ diga quantos diretorios existem cujo nome começa com "pasta"?
 Resposta1 (comando linux usado):
 ./pasta1
 ./pasta2
-./Thales 21-01-1995
 ./pasta3
 ./pasta3/pasta31
-./log
 
 
-Resposta2 (numero de diretorios encontrados) : 6
+Resposta2 (numero de diretorios encontrados) : 4
 
 
 7 - Qual o comando linux para: 
